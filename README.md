@@ -2,7 +2,7 @@
 <br>
 <h1 align="center">Incomplete</h1>
 
-<img src=".....?raw=true" ></img>
+<img src="https://github.com/NickODxyz/FM-fylo-landing-page-with-two-column-layout-master/blob/main/Capture.JPG?raw=true" ></img>
 
 <br>
 
