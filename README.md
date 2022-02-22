@@ -33,7 +33,7 @@ Use of `::before` & `::after` suedo selectors to create decoration.
 ## Site links
 Hosted [Live Site](https://nickodxyz.github.io/FM-fylo-landing-page-with-two-column-layout-master/)
 <br>
-Frontend Mentor [Solution Page]()
+Frontend Mentor [Solution Page](https://www.frontendmentor.io/solutions/fylo-landing-page-with-2column-layout-grid-flexbox-wgT3k5f50)
 
 <br>
 
