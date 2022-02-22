@@ -2,7 +2,8 @@
 <br>
 <h1 align="center">Incomplete</h1>
 
-<img src="https://github.com/NickODxyz/FM-fylo-landing-page-with-two-column-layout-master/blob/main/Capture.JPG?raw=true" ></img>
+<img src="https://github.com/NickODxyz/FM-fylo-landing-page-with-two-column-layout-master/blob/main/Preview.JPG?raw=true" ></img>
+<img src="https://github.com/NickODxyz/FM-fylo-landing-page-with-two-column-layout-master/blob/main/Preview-ext-1.JPG?raw=true" ></img>
 
 <br>
 
@@ -30,7 +31,7 @@ Use of `::before` & `::after` suedo selectors to create decoration.
 <br>
 
 ## Site links
-Hosted [Live Site]()
+Hosted [Live Site](https://nickodxyz.github.io/FM-fylo-landing-page-with-two-column-layout-master/)
 <br>
 Frontend Mentor [Solution Page]()
 
